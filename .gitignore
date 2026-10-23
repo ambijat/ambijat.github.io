@@ -1,0 +1,17 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.log
+.idea/
+.vscode/
+
+# Jekyll build output (Pages ignores it, but a local `jekyll build` should not be committed)
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# NEVER remove .nojekyll or .well-known/ from tracking.
+# Jekyll strips dot-directories, which would break
+# https://ambijat.github.io/.well-known/assetlinks.json and with it every TWA deep link.
