@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ambijat.bandtraining",
+      "sha256_cert_fingerprints": [
+        "22:88:68:5D:58:63:7C:FF:8B:F8:78:50:37:81:0A:84:06:86:CE:40:CD:80:C5:F9:2F:C1:5C:62:6A:61:16:CF",
+        "CB:AB:28:99:90:AD:D1:84:F7:8B:E5:DC:DE:9E:30:E3:64:AE:8F:8E:19:5D:AC:36:5A:B4:2B:5F:46:B2:4E:A3"
+      ]
+    }
+  }
+]

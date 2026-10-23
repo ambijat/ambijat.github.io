@@ -1,0 +1,4 @@
+This file must stay: GitHub Pages runs Jekyll by default, which silently
+excludes dot-directories such as .well-known/. Without this file,
+/.well-known/assetlinks.json returns 404 and Android/Play cannot verify
+any Trusted Web Activity hosted on this domain.
